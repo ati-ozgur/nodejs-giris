@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-giris-sql-server-examples",
+  "version": "0.0.1",
+  "description": "nodejs egitimi için oracle örnekleri",
+  "main": "firstExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ati-ozgur/nodejs-giris"
+  },
+  "author": "Atilla Özgür",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "bugs": {
+    "url": "https://github.com/ati-ozgur/nodejs-giris/issues"
+  },
+  "homepage": "https://github.com/ati-ozgur/nodejs-giris"
+}
