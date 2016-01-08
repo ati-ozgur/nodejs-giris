@@ -6,5 +6,8 @@ git clone https://github.com/atom/electron-quick-start
 # dizine gidin
 cd electron-quick-start
 
-# Gerekli kütüphaneleri yükleyin ve başlayın.
-npm install && npm start
+# Gerekli kütüphaneleri yükleyin 
+npm install 
+
+# Başlayın
+npm start
