@@ -42,6 +42,9 @@ java runtim
 11.1 npm install bower -g 
 11.2 bower init
 
+11.3 bower install bootstrap
+
+
 
 
 12. grunt
