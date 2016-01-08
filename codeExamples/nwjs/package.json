@@ -2,7 +2,7 @@
   "name": "nodejs-giris-nwjs-example",
   "version": "0.0.1",
   "description": "nodejs egitimi için masaüstü örneği- cross platform desktop example for nodejs-introduction training",
-  "main": "ndex.html",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
